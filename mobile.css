@@ -1,0 +1,46 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    width: 100%;
+}
+input{
+    width: 100%;
+    margin-bottom: 5%;
+}
+.flex-mobile{
+    display: flex;
+    flex-direction: column;
+    width: 55%;
+}
+.flex-mobile-cotainer{
+    display: flex;
+    justify-content: space-between;
+    width: 105%;
+}
+.btn{
+    width: 90%;
+    height: 6vh;
+    margin-top: 5%;
+    margin-right: 5%;
+}
+
+.btn-custom{
+    width: 90%;
+    height: 6vh;
+    margin-top: 5%;
+    margin-right: 5%;
+    padding-right: 20%;
+}
+.btn-reset{
+    height: 4.5vh;
+    margin-top: 5%;
+}
+.right-container{
+    margin-top: 5%;
+}
+.right-container-top-right{
+    margin-top: 4%;
+}
